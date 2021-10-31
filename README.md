@@ -4,7 +4,7 @@
 
 ### Instruções
 
-* Entre na pasta: Projetos - HTML5 e CSS3, faça o download do arquivo arquivo zipado, agora basta abrir a página HTML em seu navegador de preferência ;)
+* Entre na pasta: Projetos - HTML5 e CSS3, faça o download do arquivo zipado, agora basta abrir a página HTML em seu navegador de preferência ;)
 
 * São vários conceitos trabalhados ao longo do curso, no arquivo "android.html" temos a aplicação de tudo que foi aprendido até o momento.
 
