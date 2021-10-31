@@ -1,4 +1,4 @@
-<img src"Materiais Curso/imagens/mascote.png" align="right" width="150">
+<img src="Materiais Curso/imagens/mascote.png" align="right" width="150">
 
 ## Fork do projeto de HTML 5 e CSS3.
 
