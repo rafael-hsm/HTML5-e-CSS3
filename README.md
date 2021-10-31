@@ -1,6 +1,8 @@
 <img src="imagens/mascote.png" align="right" width="150">
 
-## Fork do projeto de estudo de HTML 5 e CSS3.
+## Fork do projeto de HTML 5 e CSS3.
+
+### Acesse o Arquivo android.htmlk
 
 * São vários conceitos trabalhados ao longo do curso, no arquivo "android.html" temos a aplicação de tudo que foi aprendido até o momento.
 * Serão 5 módulos e até o momento a plataforma disponibilizou 2, os quais já concluí.

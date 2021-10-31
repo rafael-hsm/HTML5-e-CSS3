@@ -1,6 +1,9 @@
 .DS_Store
 exercicios/teste/*
 
+.idea
+.vscode
+
 Anotações -.docx
 Anotações.rtf
 Anotações3.rtf
