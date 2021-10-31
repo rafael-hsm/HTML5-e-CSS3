@@ -1,5 +1,12 @@
 <img src="imagens/mascote.png" align="right" width="150">
 
+## Fork do projeto de estudo de HTML 5 e CSS3.
+
+* São vários conceitos trabalhados ao longo do curso, no arquivo "android.html" temos a aplicação de tudo que foi aprendido até o momento.
+* Serão 5 módulos e até o momento a plataforma disponibilizou 2, os quais já concluí.
+
+
+
 # Curso de HTML5 e CSS3
 
 Material público para o ensino básico de HTML5 e CSS3 para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
