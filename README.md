@@ -2,9 +2,12 @@
 
 ## Fork do projeto de HTML 5 e CSS3.
 
-### Acesse o Arquivo android.htmlk
+### Instruções
+
+* Entre na pasta: Projetos - HTML5 e CSS3, faça o download do arquivo arquivo zipado, agora basta abrir a página HTML em seu navegador de preferência ;)
 
 * São vários conceitos trabalhados ao longo do curso, no arquivo "android.html" temos a aplicação de tudo que foi aprendido até o momento.
+
 * Serão 5 módulos e até o momento a plataforma disponibilizou 2, os quais já concluí.
 
 
